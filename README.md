@@ -1,1 +1,1 @@
-# jamb-offilcial-result-checker
+# result-checker
